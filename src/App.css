@@ -1,0 +1,30 @@
+.App {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   flex-direction: column;
+   font-family: 'Courier New', Courier, monospace;
+
+
+}
+.App input {
+  margin-top: 20px;
+  width: 300px;
+  height: 40px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+/* .App {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+} */
+
+p {
+  margin: 10px;
+  font-size: 18px;
+
+}
